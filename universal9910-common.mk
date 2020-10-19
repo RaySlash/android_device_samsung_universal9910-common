@@ -91,7 +91,7 @@ PRODUCT_COPY_FILES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    init.recovery.samsungexynos9810.rc
+    init.recovery.samsungexynos9910.rc
 
 # SamsungDoze
 PRODUCT_PACKAGES += \
